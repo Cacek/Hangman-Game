@@ -100,8 +100,6 @@ namespace Hangman
             int lives = 5;
             int letters = 0;
 
-            StartGame startGame = new StartGame();
-
             createKeyboardView();
            
             Console.WriteLine($"You have {lives} lives.");
