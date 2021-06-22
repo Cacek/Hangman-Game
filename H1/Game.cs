@@ -27,7 +27,7 @@ namespace Hangman
         {
             Console.Write("WELCOME TO THE");
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.Write("   H A N G M A N   ");
+            Console.Write("   H A N G M A N    ");
             Console.ResetColor();
             Console.WriteLine();
             Console.WriteLine();
